@@ -1,2 +1,1 @@
-# KnowledgeIllustrations
-Knowledge Illustrations
+# Knowledge Illustrations
